@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{D9AC35A9-A248-4560-B720-6FA4E0EF8F37}|Default">
+  <MonoDevelop.Ide.ItemProperties.ProgressBar PreferredExecutionTarget="MyMacID" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ViewController.cs">
+    <Files>
+      <File FileName="AppDelegate.cs" />
+      <File FileName="ViewController.cs" Line="33" Column="40" />
+      <File FileName="ViewController.designer.cs" />
+      <File FileName="Main.cs" />
+      <File FileName="Info.plist" />
+      <File FileName="Entitlements.plist" />
+      <File FileName="../../../../../../Library/Frameworks/Xamarin.Mac.framework/Versions/Current/src/Xamarin.Mac/external/corefx/src/Common/src/CoreLib/System/String.Manipulation.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ProgressBar" expanded="True">
+            <Node name="ProgressBar" expanded="True">
+              <Node name="Main.storyboard" selected="True" />
+              <Node name="ViewController.cs" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
