@@ -20,7 +20,7 @@ namespace ProgressBar
 			base.ViewDidLoad();
 
 			// Do any additional setup after loading the view.
-			timer = new Timer(500);
+			timer = new Timer(100);
 			timer.Elapsed += OnTimedEvent;
 			timer.Enabled = true;
 
